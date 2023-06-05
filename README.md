@@ -1,7 +1,5 @@
 ### Hi I'm Mai Thanh Trọng 👋
----
-💡 I'm a final year Software Engineering student at HCM Industry University.
----
+
 
 ### Technologies
 
